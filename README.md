@@ -15,7 +15,7 @@ The typical @Creator coin FR is 10% \
 @Project coin FR is 100% to be closed for buying \
 Typical @Project coin FR is 10%
 
-This is an anti-dumping mechansim for creators who work on projects on the BitClout platform. Its usecase is experimental. Basically, for those who want to admit early buyers but disencourage dumping, here is what I would recommend:
+This is an anti-dumping mechanism for creators who work on projects on the BitClout platform. Its usecase is experimental. Basically, for those who want to admit early buyers but disencourage dumping, here is what I would recommend:
 
 1. You first put $1k worth of BitClout into your new project coin for minting
 2. You increase the FR in your personal creator coin for 24 hours to 50% and explain that people who get your creator coin in the next 24 hours are also early buyers in your project coin. This is a good deal for two reasons: 1) They are getting already 50% of your creator coin. 2) They are getting 50% into the project coin. Basically it is as if the FR was 0% rather than 50%.
