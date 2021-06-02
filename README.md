@@ -4,7 +4,7 @@
 **Version:** 1.0
 
 @Creator puts $1000 into minting new @Project Coins \
-@Creator increases his FR in their @Creator coin to 50% for 24 hour period \
+@Creator increases the FR in their @Creator coin to 50% for 24 hour period \
 @Creator tracks who buys @Creator coin for the next 24 hours \
 @Creator uses FR to buy more @Project Coins \
 @Creator opens up @Project Coins for public users to buy \
